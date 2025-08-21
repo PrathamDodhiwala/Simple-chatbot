@@ -1,5 +1,3 @@
-# Simple-chatbot
-
 # Simple Chatbot 🤖
 
 A very simple **Python-based chatbot** that runs in the console.  
